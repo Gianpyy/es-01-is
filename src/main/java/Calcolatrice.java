@@ -1,4 +1,4 @@
-public class Filler {
+public class Calcolatrice {
     private int a,b;
 
     public Calcolatrice() {
